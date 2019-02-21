@@ -46,7 +46,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     </js-module>
 
     <js-module src="www/File.js" name="File">
-        <clobbers target="window.File" />
+        <clobbers target="window.CordovaFile" />
     </js-module>
 
     <js-module src="www/FileEntry.js" name="FileEntry">
@@ -58,7 +58,7 @@ xmlns:android="http://schemas.android.com/apk/res/android"
     </js-module>
 
     <js-module src="www/FileReader.js" name="FileReader">
-        <clobbers target="window.FileReader" />
+        <clobbers target="window.CordovaFileReader" />
     </js-module>
 
     <js-module src="www/FileSystem.js" name="FileSystem">

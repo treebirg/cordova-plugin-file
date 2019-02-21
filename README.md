@@ -21,9 +21,9 @@ description: Read/write files on the device.
 #         under the License.
 -->
 
-|AppVeyor|Travis CI|
-|:-:|:-:|
-|[![Build status](https://ci.appveyor.com/api/projects/status/github/apache/cordova-plugin-file?branch=master)](https://ci.appveyor.com/project/ApacheSoftwareFoundation/cordova-plugin-file)|[![Build Status](https://travis-ci.org/apache/cordova-plugin-file.svg?branch=master)](https://travis-ci.org/apache/cordova-plugin-file)|
+# Fork
+Plugin forked from github.com/apache/cordova-plugin-file.
+This fork doesn't overwrite the native File and FileReader interfaces.
 
 # cordova-plugin-file
 
